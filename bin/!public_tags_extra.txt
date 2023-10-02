@@ -1,0 +1,102 @@
+effects\particles\air\steam.particle
+effects\particles\solid\bitmaps\water spray.bitmap
+effects\particles\solid\water spray.particle
+effects\point physics\water.point_physics
+levels\a30\devices\beam emitter\beam emitter.scenery
+levels\a30\devices\torpedo_bridge\torpedo_bridge.scenery
+levels\b40\scenery\b40_battery\b40_battery.gbxmodel
+levels\b40\scenery\b40_battery\b40_battery.model_collision_geometry
+levels\b40\scenery\b40_battery\b40_battery.scenery
+levels\b40\scenery\b40_bigbattery\b40_bigbattery.gbxmodel
+levels\b40\scenery\b40_bigbattery\b40_bigbattery.model_collision_geometry
+levels\b40\scenery\b40_bigbattery\b40_bigbattery.scenery
+levels\c10\devices\bridge\bridge.scenery
+levels\test\timberland\scenery\mp_boulder_granite_small\mp_boulder_granite_small.gbxmodel
+levels\test\timberland\scenery\mp_boulder_granite_small\mp_boulder_granite_small.model_collision_geometry
+levels\test\timberland\scenery\mp_boulder_granite_small\mp_boulder_granite_small.scenery
+levels\test\tutorial\bitmaps\example_tutorial_ladder_bump.bitmap
+levels\test\tutorial\bkup\multiplayer.wind
+levels\test\tutorial\bkup\tutorial.scenario
+levels\test\tutorial\bkup\tutorial.scenario_structure_bsp
+old tags\cold smoke puff.point_physics
+old tags\doorway_wall holo control.model_animations
+old tags\doorway_wall holo control2.model_animations
+old tags\hallway holo control.model_animations
+old tags\hot smoke cloud.point_physics
+scenery\bent_beam\bent_beam.gbxmodel
+scenery\bent_beam\bent_beam.scenery
+scenery\emitters\energy_rope\energy_rope.scenery
+scenery\emitters\sparks\effects\sparks.effect
+scenery\emitters\sparks\sparks.scenery
+scenery\emitters\stone debris\effects\stone debris.effect
+scenery\emitters\stone debris\stone debris.scenery
+scenery\light lens flare\light lens flare.lens_flare
+scenery\light lens flare\light lens flare.light
+scenery\light lens flare\light lens flare.scenery
+scenery\lightning\lightning.gbxmodel
+scenery\lightning\lightning.model_animations
+scenery\lightning\lightning.scenery
+scenery\lightning\shaders\lightning.shader_transparent_chicago
+scenery\rocks\rock_sharpstubby\rock_sharpstubby.gbxmodel
+scenery\rocks\rock_sharpstubby\rock_sharpstubby.model_collision_geometry
+scenery\rocks\rock_sharpstubby\rock_sharpstubby.scenery
+scenery\rocks\rock_sharpwide\rock_sharpwide.gbxmodel
+scenery\rocks\rock_sharpwide\rock_sharpwide.model_collision_geometry
+scenery\rocks\rock_sharpwide\rock_sharpwide.scenery
+scenery\sprinkler\effects\water spray.effect
+scenery\sprinkler\sprinkler.gbxmodel
+scenery\sprinkler\sprinkler.scenery
+scenery\teleporter_shield\bitmaps\teleporter_shield_dust.bitmap
+scenery\teleporter_shield\bitmaps\teleporter_shield_mask.bitmap
+scenery\trees\tree_gnarled_doublewide\bitmaps\tree_gnarled_leaves.bitmap
+scenery\trees\tree_gnarled_doublewide\bitmaps\tree_gnarled_trunk.bitmap
+scenery\trees\tree_gnarled_doublewide\shaders\tree_gnarled_leaves.shader_model
+scenery\trees\tree_gnarled_doublewide\shaders\tree_gnarled_trunk.shader_model
+scenery\trees\tree_gnarled_doublewide\tree_gnarled_doublewide.gbxmodel
+scenery\trees\tree_gnarled_doublewide\tree_gnarled_doublewide.scenery
+scenery\trees\tree_leafycover_doublewide\bitmaps\tree_leafycover_leavse.bitmap
+scenery\trees\tree_leafycover_doublewide\shaders\leaves_cover.shader_model
+scenery\trees\tree_leafycover_doublewide\tree_leafycover_doublewide.gbxmodel
+scenery\trees\tree_leafycover_doublewide\tree_leafycover_doublewide.scenery
+scenery\trees\tree_wall2\tree_wall2.gbxmodel
+scenery\trees\tree_wall2\tree_wall2.model_collision_geometry
+scenery\trees\tree_wall2\tree_wall2.scenery
+sound\sfx\ambience\a30\a30_beam_emitter.scenery
+sound\sfx\ambience\a30\river_sound.scenery
+sound\sfx\ambience\a30\stream.scenery
+sound\sfx\ambience\a30\waterfall_sound.scenery
+sound\sfx\ambience\c20\largeroom.sound_scenery
+sound\sfx\ambience\d20\d20_combat_exterior.sound
+sound\sfx\ambience\d20\d20_combat_exterior.sound_looping
+sound\sfx\ambience\d20\d20_combat_exterior.sound_scenery
+sound\sfx\ambience\d20\d20_combat_interior.sound
+sound\sfx\ambience\d20\d20_combat_interior.sound_looping
+sound\sfx\ambience\d20\d20_combat_interior.sound_scenery
+sound\sfx\ambience\emitters\fire.sound_scenery
+sound\sound environments\auditorium.sound_environment
+sound\sound environments\carpeted_hallway.sound_environment
+sound\sound environments\city.sound_environment
+sound\sound environments\generic.sound_environment
+sound\sound environments\living_room.sound_environment
+sound\sound environments\padded_cell.sound_environment
+sound\sound environments\parking_lot.sound_environment
+sound\sound environments\plain.sound_environment
+sound\sound environments\room.sound_environment
+sound\sound environments\sewer_pipe.sound_environment
+sound\sound environments\stone_corridor.sound_environment
+ui\editor\markers\fire\fire.gbxmodel
+ui\editor\markers\fire\fire.placeholder
+ui\editor\markers\move\move.gbxmodel
+ui\editor\markers\move\move.placeholder
+ui\editor\markers\normal\bitmaps\marker color.bitmap
+ui\editor\markers\normal\normal.gbxmodel
+ui\editor\markers\normal\normal.placeholder
+ui\editor\markers\normal\shaders\cyan.shader_model
+ui\editor\markers\normal\shaders\magenta.shader_model
+ui\editor\markers\normal\shaders\selection ball.shader_model
+ui\editor\markers\normal\shaders\x.shader_model
+ui\editor\markers\normal\shaders\y.shader_model
+ui\editor\markers\normal\shaders\yellow.shader_model
+ui\editor\markers\normal\shaders\z.shader_model
+vehicles\fighterbomber\shaders\fb_glass_opaque.shader_model
+vehicles\lifepod\lifepod.scenery
